@@ -19,7 +19,7 @@ Validar el **flujo completo de compra** dentro de la aplicación Temu, asegurand
 
 ---
 
-## 📘 Alcance del Testing  
+##  Alcance del Testing  
 Se evaluaron las siguientes funcionalidades:
 
 - Búsqueda de productos  
@@ -33,7 +33,7 @@ Se evaluaron las siguientes funcionalidades:
 
 ---
 
-## 🖥️ Entorno de Pruebas  
+##  Entorno de Pruebas  
 
 **Dispositivo:** iPhone 12 Pro Max  
 **Sistema Operativo:** iOS 16  
@@ -51,7 +51,7 @@ Se evaluaron las siguientes funcionalidades:
 
 ---
 
-## 📄 Documentos Incluidos
+##  Documentos Incluidos
 Este proyecto contiene:
 
 - ✔️ Documento completo de pruebas funcionales  
@@ -62,7 +62,7 @@ Este proyecto contiene:
 
 ---
 
-## 🗂️ Casos de Prueba Implementados
+##  Casos de Prueba Implementados
 
 | ID | Descripción | Resultado |
 |----|-------------|----------|
@@ -76,13 +76,13 @@ Este proyecto contiene:
 
 ---
 
-## 🐞 Bugs Encontrados  
+##  Bugs Encontrados  
 Durante las pruebas se identificaron fallos en escenarios negativos o límites.  
 Los bugs están documentados dentro del archivo PDF incluido en este proyecto.
 
 ---
 
-## 🛠️ Herramientas Utilizadas  
+##  Herramientas Utilizadas  
 - GitHub  
 - Microsoft Word  
 - Dispositivo iOS  
