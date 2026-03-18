@@ -43,7 +43,7 @@ Las pruebas cubren:
 
 ---
 
-## 📂 Casos de Prueba Incluidos
+##  Casos de Prueba Incluidos
 
 ### TC-001 – Iniciar sesión con Microsoft  
 Validar que el usuario pueda iniciar sesión correctamente usando su cuenta.
@@ -68,7 +68,7 @@ Validar login mediante código temporal válido (TOTP).
 
 ---
 
-## 🐞 Bugs Reportados
+## Bugs Reportados
 
 ### BG-001 – Mensaje incorrecto al ingresar código vencido  
 - Severidad: Media  
@@ -85,6 +85,6 @@ Proyecto personal – Portafolio QA Tester Junior
 
 ---
 
-## 📎 Notas
+##  Notas
 
 Este proyecto fue creado con **fines educativos** para demostrar mis habilidades profesionales en aseguramiento de calidad de software.
